@@ -1,0 +1,11 @@
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\bin\Debug\proxi.exe.config
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\bin\Debug\proxi.exe
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\bin\Debug\proxi.pdb
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.Form1.resources
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.Properties.Resources.resources
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.exe
+C:\Users\bohsh\Desktop\visual\Builder\proxi\proxi\obj\Debug\proxi.pdb
